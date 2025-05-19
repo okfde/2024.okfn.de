@@ -56,64 +56,57 @@ effect:
 
 # Das Projekt
 
-Der ➠[Prototype Fund](https://prototypefund.de/) erforscht und fördert Public-Interest-Tech-Projekte aus der Gesellschaft für die Gesellschaft. Die stetig wachsende Bedeutung von Technologien, Algorithmen und Daten verlangt einen aufgeklärten und selbstbestimmten Umgang der Nutzer:innen mit diesen. Darüber hinaus ist es wichtig, innovative Technologien nicht (nur) im Interesse der Wirtschaftlichkeit zu entwickeln, sondern sie (auch) in den Dienst der Gesellschaft zu stellen. Deswegen sind mehr als gute, anwendungsfreundliche Werkzeuge nötig – wir brauchen auch nachhaltige technische und kommunikative Infrastrukturen, die dazu beitragen, Bürger:innen- und Freiheitsrechte zu wahren. 2016 hat die OKF daher zusammen mit dem Bundesministerium für Bildung und Forschung den Prototype Fund als speziellen Förderfonds ins Leben gerufen, der sich an Einzelpersonen und kleine Teams richtet, die auf Basis konkreter Bedürfnisse Open-Source-Software entwickeln. Durch die Veröffentlichung des Programmcodes können andere an den Ergebnissen teilhaben und sie weiterverwerten.
+Der [➠Prototype Fund](https://prototypefund.de/) erforscht und fördert Public-Interest-Tech-Projekte aus der Gesellschaft und für die Gesellschaft. Die stetig wachsende Bedeutung von Technologien, Algorithmen und Daten verlangt einen aufgeklärten und selbstbestimmten Umgang der Nutzer:innen mit diesen. Darüber hinaus ist es wichtig, innovative Technologien nicht (nur) im Interesse der Wirtschaftlichkeit zu entwickeln, sondern sie (auch) in den Dienst der Gesellschaft zu stellen. Deswegen sind mehr als gute, anwendungsfreundliche Werkzeuge nötig – wir brauchen auch nachhaltige technische und kommunikative Infrastrukturen, die dazu beitragen, Bürger:innen- und Freiheitsrechte zu wahren. 2016 hat die OKF daher zusammen mit dem Bundesministerium für Bildung und Forschung den Prototype Fund als speziellen Förderfonds ins Leben gerufen, der sich an Einzelpersonen und kleine Teams richtet, die auf Basis konkreter Bedürfnisse Open-Source-Software entwickeln. Durch die Veröffentlichung des Programmcodes können andere an den Ergebnissen teilhaben und sie weiterverwerten.
 
-# Was ist 2023 passiert?
+# Was ist 2024 passiert?
 
 ## Ressourcen
 
 ### Laufzeit
 
-  Das Projekt startete im Mai 2016 ​und läuft bis ​April 2025.
+Das Projekt startete im Mai 2016 ​und läuft bis ​Juni 2029.
 
 ### Budget
   
-  **2023** <br>
+  **2024** <br>
+  Einnahmen: € <br>
+  Ausgaben: € <br>
+  davon Personalausgaben: € <br>
+  davon Sachausgaben: €
+
+  **2023**<br>
   Einnahmen: 423.076 € <br>
   Ausgaben: 423.076 € <br>
   davon Personalausgaben: 279.255 € <br>
   davon Sachausgaben: 143.820 €
-
-  **2022**<br>
-  Einnahmen: 387.942 € <br>
-  Ausgaben: 397.013 € <br>
-  davon Personalausgaben: 259.720 € <br>
-  davon Sachausgaben: 137.293 €
   
 ### Personal
-  Projektleitung: Patricia Leu, Marie Kreil | Begleitforschung: Sophia Schulze Schleithoff | Kommunikation: Joram Schwartzmann, Paul Robben | Studentische Hilfskraft und Projektbetreuung: Francesca Giacco, Studentische Hilfskraft und Kommunikation: Felizitas Fauther | Controlling: Petra Bálint | Technische Administration: Gregor Gilka
+Projektleitung: Patricia Leu, Marie Kreil | Begleitforschung: Sophia Schulze Schleithoff | Kommunikation: Paul Robben | Projektbetreuung: Marie-Lena Wiese | Eventmanagement: Jasmin Meiling | Controlling: Petra Bálint | Technische Administration: Gregor Gilka
 
 ### Förderung
   
   Bundesministerium für Bildung und Forschung <br>
-  Projektträger ist das Deutsche Zentrum für Luft- und Raumfahrt.
-  
+  Projektträger ist der DLR Projektträger.  
  
 # Inhaltliche Schwerpunkte
 
-Wie bereits in den Jahren zuvor fanden im Jahr 2023 zwei themenoffene Förderrunden statt. In einer umfassenden ➠[Evaluation](https://www.bmbf.de/SharedDocs/Downloads/de/2023/231020-evaluationsbericht-prototype-fund.pdf?__blob=publicationFile&v=2) wurde der Prototype Fund durch die Technopolis Group auf seine Wirksamkeit untersucht. Dabei wurde die Fördermaßnahme als effektives Förderinstrument des Bundesministeriums für Bildung und Forschung eingestuft. Außerdem wurden im Rahmen der Begleitforschung zwei Trendberichte zu aktuellen Themen veröffentlicht.
+Wie bereits in den Jahren zuvor fanden im Jahr 2024 zwei Förderrunden statt. Der Prototype Fund wurde zudem in einer Neuauflage grundlegend neu strukturiert: Zukünftig wird es nur einen Förderjahrgang pro Jahr geben, außerdem konzentriert sich das Programm auf die Förderschwerpunkte [➠Datensicherheit](https://prototypefund.de/wp-content/uploads/2021/05/Onepager_Data_Security.pdf) und [➠Software-Infrastruktur](https://prototypefund.de/wp-content/uploads/2021/05/Onepager_Software-Infrastruktur.pdf). Neu eingeführt wird die sogenannte Second Stage, in der Projekte einen Fokus auf die nachhaltige Absicherung ihrer Projektidee legen. Im November 2024 startete die Bewerbungsphase für Jahrgang 01.
 
 # Output
 
-Zu Beginn des Jahres 2023 stellten sich die Projekte der 12. Förderrunde Prototype Fund auf ihrem ➠[Demo Day](https://prototypefund.de/demo-day-runde-12/) vor. Am 28. Februar kamen rund 130 Teilnehmende in Berlin zusammen und konnten die Ergebnisse der Projektarbeit erleben. Neben Vorträgen, Panels und Live-Demos hielt Elina Eickstädt, Mitglied des CCC sowie Sprecherin des Bündnis *Chatkontrolle Stoppen!*, eine Keynote zum Thema Datensicherheit als grundlegendern Teil von Software-Entwicklung. Die Veranstaltung wurde in Form eines ➠[Videos](https://www.youtube.com/watch?v=ggoBhA09sGI) und einer ➠[Fotogalerie](https://prototypefund.de/fotoshow-vom-12-demo-day/) sowie durch Beiträge in den sozialen Medien dokumentiert.
+Zu Beginn des Jahres 2024 stellten sich die Projekte der 14. Förderrunde Prototype Fund auf ihrem [➠Demo Day](https://prototypefund.de/demo-day-14/) vor. Am 1. März kamen rund 130 Teilnehmende in Berlin zusammen und konnten die Ergebnisse der Projektarbeit erleben. Neben Vorträgen, Panels und Live Demos hielt Peter Steudtner, Trainer für Holistic Security, eine Keynote zum Thema „Digital Resistance – Care is Resilience“. Die Veranstaltung wurde in Form eines [➠Videos](https://www.youtube.com/watch?v=Sfebja-Vdiw) und einer [➠Fotogalerie](https://prototypefund.de/fotoshow-vom-14-demo-day/) sowie durch Beiträge in den sozialen Medien dokumentiert.
 
-Am 1. März 2023 fand der Kick-Off-Workshop der ➠[13. Förderrunde](https://prototypefund.de/projects/round-13/) statt. Die 23 Förderprojekte wurden durch das Team des Prototype Fund, Vertreter:innen des DLR Projektträger, das den Prototype Fund als Projektträger gemeinsam mit der OKF betreut, auf die anstehende Umsetzungsphase vorbereitet.
+Am 29. Februar 2024 fand der Kick-Off-Workshop der [➠15. Förderrunde](https://prototypefund.de/projects/round-15/) statt. 22 neue Förderprojekte wurden durch das Team des Prototype Fund und Vertreter:innen des DLR Projektträger auf die anstehende Umsetzungsphase vorbereitet.
 
-Parallel dazu fand die Bewerbungsphase für die 14. Förderrunde vom 1. Februar bis zum 31. März statt. Bewerber:innen konnten Projekte zu den vier Fördersäulen Civic Tech, Data Literacy, Software-Infrastruktur und Datensicherheit einreichen. Der begleitende Trendreport untersuchte, wie digitale Gesundheitstechnologien einen Beitrag zu Autonomie und Teilhabe leisten können und welche Rolle Open Source dabei spielt. Für die 14. Förderrunde gingen 262 gültige Bewerbungen ein, davon wurden 59 % von Teams eingereicht. Unter den Bewerbungen konnte ein Anstieg rund um das Thema Künstliche Intelligenz beobachtet werden.
+Parallel dazu fand die Bewerbungsphase für die 16. Förderrunde vom 1. Februar bis zum 31. März statt. Bewerber:innen konnten Projekte zu den vier Fördersäulen Civic Tech, Data Literacy, Software-Infrastruktur und Datensicherheit einreichen. Für die 16. Förderrunde gingen 327 gültige Bewerbungen ein, davon wurden 46 % von Teams eingereicht. Am 3. September fand der [➠Demo Day](https://prototypefund.de/demo-day-15/) für die 15. Föderrunde statt. Rund 130 Teilnehmer:innen kamen im bUm in Berlin zusammen und erlebten die Ergebnisse der 23 Projekte der 15. Förderphase in der Form von Vorträgen, thematischen Panels und Live-Demos. Zusätzlich wurde den Teilnehmenden eine Keynote von Jens Ohlig, Berater für Cybersicherheit und Jurymitglied des Prototype Fund, geboten. In seiner Keynote „Aus gutem Grund: Software für das Ehrenamt“ betonte er, wie wichtig Ehrenamt für die digitale Welt und umgekehrt ist. Die Veranstaltung wurde durch Beiträge in sozialen Medien und in der Form eines [➠Videos](https://www.youtube.com/watch?v=Ojvcz0JjDhs) sowie einer [➠Fotogalerie](https://prototypefund.de/fotoshow-vom-15-demo-day/) dokumentiert. Die Kick-Off-Veranstaltung zur [➠16. Förderrunde](https://prototypefund.de/projects/round-16/) fand am 2. September 2024 in Berlin statt. Dort bereiteten das Team des Prototype Fund und Vertreter:innen des DLR Projektträger die 25 Projekte auf die anstehende Umsetzungsphase vor.
 
-Am 1. September 2023 fand der zweite ➠[Demo Day](https://prototypefund.de/demo-day-13/) 2023 statt. Rund 120 Teilnehmer:innen kamen im bUm in Berlin zusammen und erlebten die Ergebnisse der 23 Projekte der 13. Förderphase in der Form von Vorträgen, thematischen Panels und Live-Demos. Zusätzlich wurde den Teilnehmenden eine Keynote von Dr. Irmhild Rogalla, Leiterin des Instituts für Digitale Teilhabe an der Hochschule Bremen und Jurymitglied des Prototype Fund, geboten. In ihrem Vortrag „Digitale Barrierefreiheit und FOSS – die drei großen Herausforderungen“ zeigte sie auf, was es braucht, um die digitale Teilhabe von Menschen mit Beeinträchtigungen zu fördern – und woran dies bei Open-Source-Software aktuell noch hakt. Die Veranstaltung wurde durch Beiträge in sozialen Medien und in der Form eines ➠[Videos](https://youtu.be/ggoBhA09sGI?feature=shared) sowie einer ➠[Fotogalerie](https://prototypefund.de/fotoshow-vom-13-demo-day/) dokumentiert. Die Kick-Off-Veranstaltung zur ➠[14. Förderrunde](https://prototypefund.de/projects/round-14/) fand am 31. August 2023 in Berlin statt. Dort bereiteten das Team Prototype Fund und Vertreter:innen des DLR Projektträger die 24 Projekte auf die anstehende Umsetzungsphase vor.
+Anders als in den letzten Jahren fand im Herbst 2024 keine reguläre Bewerbungsphase statt. Auf Grundlage einer 2023 von der Technopolis Group durchgeführten [➠Evaluation](https://www.technopolis-group.com/wp-content/uploads/2023/10/231013_Prototype-Fund_Evaluationsbericht_final-1.pdf), den Ergebnissen der [➠Begleitforschung](https://prototypefund.de/about/begleitforschung/) sowie den Erfahrungen aus der Projektbetreuung des Prototype Fund wurde das Förderprogramm neu ausgerichtet. Zukünftig konzentriert sich der Prototype Fund auf die Förderschwerpunkte Datensicherheit und Software-Infrastruktur. Damit entfallen die Förderschwerpunkte Data Literacy und Civic Tech. Die maximale Fördersumme für Teams wurde auf 95.000 € erhöht, außerdem wurde eine neue Second Stage eingeführt. Hierbei können bis zu 15 Projekte aus jeder Förderkohorte eine viermonatige Anschlussförderung erhalten, während der sich die Geförderten auf die Verbreitung, der Verbesserung der Nutzbarkeit oder die finanzielle Absicherung des Projektes konzentrieren. Ab 2025 wird es nur noch eine Förderkohorte jährlich geben, die jeweils im Juni mit der Projektentwicklung startet und bis zu 30 Projekte umfassen wird. Die Bewerbungsphase für die neue Fördermaßnahme startete am 11. November 2024 und lief bis zum 02. Januar 2025.
 
-Die Bewerbungsphase für die 15. Förderrunde lief vom 1. August bis zum 30. September. In dieser Zeit gingen 209 gültige Bewerbungen ein, von denen 47 % von Teams eingereicht wurden. Zentrale Themen, die besonders häufig genannt wurden, waren Softwarelösungen für das Erlernen von Sprachen, Erneuerbare Energien, Künstliche Intelligenz sowie Chatbots. Die Einreichungen ordneten sich wie folgt den thematischen Schwerpunkten zu: 49 % zählten zu Civic Tech, 25 % zu Software-Infrastruktur, 21 % zu Data Literacy und 5 % zu IT-Sicherheit. Der zweite Trendforschungsbericht 2023 wurde diesmal losgelöst von der Bewerbungsphase im Oktober veröffentlicht und untersuchte die Verbindung von digitaler Barrierefreiheit zu Open-Source-Software.
-
-Der im Jahr 2020 gestartete ➠[Public Interest Podcast](https://prototypefund.de/podcast) veröffentlichte drei neue Staffeln zu den Themen *Menschen rund um Public Interest Tech*,* Up and Coming* sowie *Open Source und Barrierefreiheit*. Der Prototype Fund war auf mehreren Community-Events, darunter dem Chaos Communication Camp 2023 und dem 37. Chaos Communication Congress vertreten und organisierte unter anderem Community-Meetups sowie Meet-the-Funders-Treffen gemeinsam mit der nlNet-Foundation und dem Sovereign Tech Fund.
+Der im Jahr 2020 gestartete [➠Public Interest Podcast](https://prototypefund.de/podcast) veröffentlichte eine neue Staffel zum Thema Open Source und Geld. Der Prototype Fund war auf mehreren Community Events, darunter der Datenspuren Konferenz oder dem 38. Chaos Communication Congress vertreten und organisierte unter anderem Community-Meetups sowie Meet-the-Funders-Treffen gemeinsam mit der nlNet-Foundation und der Sovereign Tech Agency.
 
 # Outcome
   
-Ziel des Prototype Fund ist es, durch die Förderung von Softwareprojekten im Gemeininteresse das gesellschaftliche Potenzial von Technologie zu stärken. Die Geförderten können neue Kompetenzen (z. B. in den Bereichen UX-/UI-Design, Security, Projekt- oder Teammanagement etc.) entwickeln. Außerdem haben sie die Möglichkeit, eine Community aus Open-Source-Entwickler:innen aufzubauen oder zu stärken, die ihre Fähigkeiten und Ressourcen in den Dienst der Gesellschaft stellt. Das Programm zeigt, wie eine niedrigschwellige Projektförderung funktionieren kann. Häufig forschen und arbeiten Menschen in diesem Bereich ehrenamtlich und/oder in ihrer Freizeit und werden von klassischen öffentlichen Fördermaßnahmen nicht erreicht, da sich diese in der Regel an Unternehmen, Forschungseinrichtungen oder andere Institutionen richten. Ein großer Teil des digitalen Ehrenamts wird jedoch von Einzelpersonen und kleinen interdisziplinären Teams geleistet. Weil diese durch Förderprogramme oft nicht erreicht werden, können sie ihre Projekte nicht immer konzentriert verfolgen und ihr volles Innovationspotenzial entfalten. Damit überlassen wir als Gesellschaft digitale Angebote den großen Konzernen und profitorientierter Forschung, fördern das Sammeln teilweise kritischer Daten und erhalten proprietäre statt offene Lösungen. Der Bedarf an Alternativen ist entsprechend groß.
-
-Die Technopolis Group bewertete im Jahr 2023 den Prototype Fund als grundsätzlich wirksame und effektive Fördermaßnahme des Bundesministeriums für Bildung und Forschung. Durch die zentralen Stärken des Prototype Fund, insbesondere den außergewöhnlich niedrigschwelligen Bewerbungsprozess, würden gemeinnützige Projektideen angeschoben. Alleinstellungsmerkmal des Prototype Fund sei dabei die breite „Early-Stage“-Förderung von Open-Source-Projektideen. Der Prototype Fund trüge so zu einer Stärkung des Open-Source-Ökosystems bei. Dies sei auch erreicht worden, weil der Prototype Fund als lernendes Projekt angelegt ist und so beständig verbessert würde. Er diene als wichtiges Signal für die gesellschaftliche Relevanz von Open-Source-Software.
-
-
+Ziel des Prototype Fund ist es, durch die Förderung von Softwareprojekten im Gemeininteresse das gesellschaftliche Potenzial von Technologie zu stärken. Die Geförderten können neue Kompetenzen (z. B. in den Bereichen UX-/UI-Design, Security, Projekt- oder Teammanagement etc.) entwickeln. Außerdem haben sie die Möglichkeit, eine Community aus Open-Source-Entwickler:innen aufzubauen oder zu stärken, die ihre Fähigkeiten und Ressourcen in den Dienst der Gesellschaft stellt. Das Programm zeigt, wie eine niedrigschwellige Projektförderung funktionieren kann. Häufig forschen und arbeiten Menschen in diesem Bereich ehrenamtlich und/oder in ihrer Freizeit und werden von klassischen öffentlichen Fördermaßnahmen nicht erreicht, da sich diese in der Regel an Unternehmen, Forschungseinrichtungen oder andere Institutionen richten. Ein großer Teil des digitalen Ehrenamts wird jedoch von Einzelpersonen und kleinen interdisziplinären Teams geleistet. Weil diese durch Förderprogramme oft nicht erreicht werden, können sie ihre Projekte nicht immer konzentriert verfolgen und ihr volles Innovationspotenzial entfalten. Damit überlassen wir als Gesellschaft die Entwicklung digitaler Angebot profitorientierten Konzernen, fördern das Sammeln teilweise kritischer Daten und erhalten proprietäre statt offene Lösungen. Der Bedarf an Alternativen ist entsprechend groß.
 
 # Impact
   
@@ -127,6 +120,6 @@ Die umfassende Untersuchung der Technopolis Group des Prototype Fund stellte im 
 
 # Ausblick
 
-Im April 2025 läuft das bisherige Förderprogramm aus, eine Verlängerung wird jedoch angestrebt. Diese soll die Empfehlungen der durch die Technopolis Group durchgeführten Evaluation berücksichtigen. Zeitgleich wird im Jahr 2024 ein großes Abschlussevent für den Prototype Fund in der bisherigen Form geplant, welches Ende März 2025 stattfinden wird. Das Programm legt besonderen Wert darauf, mit jedem Call neue Zielgruppen anzusprechen und die Gruppe der Bewerber:innen weiter zu diversifizieren. Ein wichtiges Ziel für die Zukunft ist, die Geförderten verstärkt dabei zu unterstützen, ihre Projekte auch über die Förderzeit hinaus nachhaltig erfolgreich zu machen, ohne den Freiraum der Projektideen zu stark einzuengen.
+Im Jahr 2025 startet der erste Jahrgang des neu gestalteten Förderprogramms. In weiteren drei Jahrgängen werden bis 2029 insgesamt bis zu 120 Projekte auf dem Weg zum Software Prototypen begleitet. Das Förderprogramm legt mit der neu eingeführten Second Stage und den Umgestaltungen einen größeren Fokus auf das Ziel, die Geförderten dabei zu unterstützen, ihre Projekte auch über die Förderzeit hinaus nachhaltig erfolgreich zu machen, ohne den Freiraum der Projektideen zu stark einzuengen. Im März 2025 findet außerdem eine große Feier „Acht Jahre Prototype Fund“ statt, in der die bisherigen fast 400 geförderten Projekte gefeiert und gewürdigt werden.
 
 <br><br><br>
