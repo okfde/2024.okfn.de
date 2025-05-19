@@ -8,27 +8,26 @@ visual:
     alt: F5 Bündnisstand
 ---
 
-### Ein scharfes Schwert gegen rechts
-Wer von rechts abgemahnt oder verklagt wird – sei es wegen eines Artikels, eines Tweets oder eines Theaterstücks – kann sich seit 2023 an unseren Rechtshilfefonds, den Gegenrechtsschutz wenden. Bisher fehlte es oft an ausreichenden Mitteln und sachverständiger Unterstützung, um gegen diese juristischen Angriffe und Einschüchterungsversuche vorzugehen. In einem halben Dutzend Fällen haben wir Betroffenen bereits geholfen, sich erfolgreich vor Gericht zu wehren. In vielen anderen Fällen hat bereits ein Anwaltsschreiben geholfen. 
+### Vor Gericht für die Pressefreiheit
+Im Oktober 2024 hat das Berliner Landgericht den FragDenStaat-Chefredakteur Arne Semsrott verurteilt, weil er amtliche Dokumente aus einem laufenden Strafverfahren veröffentlicht hat. Damit hat er gegen den Paragraph 353d des Strafgesetzbuchs verstoßen – wissentlich. Denn der Paragraph schränkt die Pressefreiheit ein und ist somit verfassungswidrig. Das wollen wir in den Fokus rücken. Das Verfahren, unterstützt von Partnerorganisationen und dem juristischen Team von FragDenStaat, konnte viel Aufmerksamkeit auf das Thema lenken. Weil wir in Berufung gegangen sind, geht das Verfahren 2025 vor dem Bundesgerichtshof weiter. Damit der Paragraph 353d endlich gekippt wird!
 
-### Jugend hackt fährt mit 90 jungen Menschen zum Hacker:innen-Camp 
-Alle vier Jahre findet in Brandenburg Deutschlands größtes Camp für Hacker:innen statt. Jugend hackt war im Sommer auf dem *Chaos Communication Camp* dabei und hat dort das „Jugend-Village“ mit Übernachtung, Verpflegung und fünf Tagen Programm für Jugendliche aufgebaut. Rund 90 junge Menschen sind mit uns aufs Camp gefahren und haben die zahlreichen Workshops und Vorträge nicht nur genutzt, sondern auch selbst angeboten.
+### Alpaka-Community-Treffen des Jugend hackt Jugendbeirats
+2024 hat zum ersten Mal der Jugend hackt Jugendbeirat eine eigene Veranstaltung organisiert: Beim Alpaka Community Treffen (ACT) haben sich Mitglieder des Jugendbeirats und interessierte Jugendliche aus der Community an einem Wochenende im November auf einem Alpakahof getroffen und gemeinsam über Projektideen und die Arbeit des Jugendbeirats gesprochen und die Zeit genutzt, sich besser kennenzulernen.
 
-### Prototype Fund „Note: Sehr Gut!“
-Der Prototype Fund wurde im Jahr 2023 auf Herz und Nieren geprüft und durch die Technopolis Group als eine effektive und erfolgreiche Fördermaßnahme des Bundesministeriums für Bildung und Forschung eingestuft. Die zentralen Stärken des Prototype Fund, insbesondere der niedrigschwellige Bewerbungsprozess, trügen zu einer Stärkung des Open-Source-Ökosystems bei. Im Jahr 2023 wurden erneut zahlreiche Projektideen gefördert und bei zwei Demo-Days präsentiert.
+### Demo Day der 15. Runde Prototype Fund
+Der Prototype Fund konnte im Jahr 2024 zwei weitere Förderrunden auf dem Weg zum Softwareprototypen begleiten. Mit dem Wissen aus fast acht Jahren Förderung und fast 400 geförderten Projekten wurde der Prototype Fund weiterentwickelt, neu ausgerichtet und die Grundsteine für vier weitere Jahre Förderung innovativer Software aus der und für die Zivilgesellschaft gelegt.
 
-### Von csv zu Fünf-Sterne — Barcamp zu Haushaltsdaten als Linked Open Data
-Bei einem Barcamp kamen Menschen aus Verwaltung, Wissenschaft und Community auf Einladung der OKF in Berlin zusammen, um auszuloten, wie Haushaltsdaten als Linked Open Data veröffentlicht werden können. Die Veranstaltung bot den perfekten Rahmen, um sich mit den Herausforderungen von Finanzdaten, landesspezifischen Eigenheiten und der technischen Umsetzung auseinanderzusetzen — und damit den Grundstein für ein gemeinsames Projekt der Länder Berlin und Schleswig-Holstein sowie der OKF zu legen.
+### Vorstellung des Open Data Rankings auf der re:publica in Berlin
+Auf der re:publica 24 wurde das erste Open Data Ranking veröffentlicht, das den Stand von Open Data in Bund und Ländern für das Jahr 2023 vergleicht. Die Analyse der rechtlichen Rahmenbedingungen, Datenqualität und personellen Ausstattung zeigen, dass es innerhalb Deutschlands erhebliche Unterschiede in Bezug auf Open Data gibt. Mit dem Ranking möchten wir die Diskussion über offene Daten im Land auf eine breitere Basis als nur das reine Datensätzezählen stellen und den Austausch mit Politik und Verwaltung fördern.
 
 ### Das Bündnis F5 auf der re:publica
-Auf der re:publica organisierten die F5 Organisationen in diesem Jahr zum ersten Mal einen gemeinsamen Stand. Dieser bot neben einem vielfältigen, von den Bündnisorganisationen gestalteten, Programm auch die Möglichkeit, mit bereits bekannten und mit neuen Interessierten ins Gespräch zu kommen. Die vielen Besucher:innen des Standes informierten sich über die Arbeit des Bündnisses und lernten die Vielfalt der Themen kennen, für die wir uns einsetzen.
+Auf der re:publica organisierten die F5 Organisationen in diesem Jahr zum zweiten Mal einen gemeinsamen Stand. Dieser bot neben einem vielfältigen, von den Bündnisorganisationen gestalteten, Programm auch die Möglichkeit, mit bereits bekannten und mit neuen Interessierten ins Gespräch zu kommen. Die vielen Besucher:innen des Standes informierten sich über die Arbeit des Bündnisses und lernten die Vielfalt der digitalpolitischen Themen kennen, für die wir uns einsetzen.
 
-### Weihnachtsfeier mit Bällebad
-In diesem Jahr gab es endlich wieder eine **große OKF-Weihnachtsfeier bei uns im Büro**, die erste seit 2019, zu der auch wieder externe Gäste geladen waren. Wir legten uns ins Zeug und transformierten unsere Räume in eine Partyzone, komplett mit Diskokugel und bunten LEDs. Ein Konferenzraum wurde zum Karaoke-Raum, der andere zum Dancefloor. Mit 100 Gästen feierten wir den Jahresausklang gebührend. Zum Zeitpunkt dieses Berichts tauchen immer noch abhandengekommene Bälle aus dem Bällebad in diversen Jackentaschen auf. 
+### Wir haben unser Büro renoviert!
+Nach zehn Jahren in der Singerstraße haben wir uns Zeit genommen, das Büro zu renovieren. Mit der ehrenamtlichen Unterstützung von zwei Innenarchitektinnen erarbeiteten wir zuerst ein Raumkonzept, das uns als Leitfaden für die Transformation diente. Für die Umsetzung waren wir soweit wie möglich selbst am Werk. Ein Highlight ist unser neuer Lounge-Meetingraum mit Polstermöbeln.
 
-### Das Forum Open Hardware feiert Premiere
-Im März 2023 hat erstmals das Forum Open Hardware stattgefunden. Unter dem Motto „Offene Technologien für eine zukunftsfähige Gesellschaft!“ kamen über 100 Teilnehmende zusammen, die sich zum Verhältnis von Open-Source-Hardware und einer Kreislaufgesellschaft austauschten.
+### Open Hardware
+-
 
 ### Stimmen aus der Community bei Code for Germany
-In diesem Jahr haben wir die Blogreihe „Stimmen aus der Community“ etabliert, in dem wir die Gesichter hinter den Projekten zeigen. Unsere erste Interviewpartnerin, die 24-jährige Softwareentwicklerin Klara aus Osnabrück, erzählte: *„Was mich wirklich zu Code for Germany gebracht hat, war die Haltung, dass dort jeder mitarbeiten kann, der daran interessiert ist. Diese partizipative Herangehensweise hat mir das Gefühl gegeben, dass auch ich da mitarbeiten kann, auch wenn ich vielleicht noch gar nicht so viel Ahnung habe von dem ganzen Thema.“*
-
+Im Bereichtsjahr hatten wir die Chance, mehr über die [Civic-Tech- und Open-Source-Szene in Taiwan](https://okfn.de/blog/2024/06/von-taipei-nach-berlin-wie-civic-tech-in-taiwan-zur-digitalen-demokratie-inspiriert/) zu erfahren und uns mit taiwanischen Aktivist:innen auszutauschen. Das Land ist ein Vorbild im Bereich Digital Democracy mit einigen Erfolgsgeschichten in der Zusammenarbeit zwischen Verwaltung und Zivilgesellschaft. Anfang Mai waren wir zum g0v summit in Taipei eingeladen um an einem Panel zu Civic Tech teilzunehmen. Einen Monat später durften wir Vertreterinnen der g0v-Community bei uns in Berlin begrüßen.
