@@ -69,10 +69,10 @@ Das Projekt startete im Mai 2016 ​und läuft bis ​Juni 2029.
 ### Budget
   
   **2024** <br>
-  Einnahmen: € <br>
-  Ausgaben: € <br>
-  davon Personalausgaben: € <br>
-  davon Sachausgaben: €
+  Einnahmen: 520.043 € <br>
+  Ausgaben: 520.043 € <br>
+  davon Personalausgaben: 357.709 € <br>
+  davon Sachausgaben: 162.334 €
 
   **2023**<br>
   Einnahmen: 423.076 € <br>
@@ -86,7 +86,7 @@ Projektleitung: Patricia Leu, Marie Kreil | Begleitforschung: Sophia Schulze Sch
 ### Förderung
   
   Bundesministerium für Bildung und Forschung <br>
-  Projektträger ist der DLR Projektträger.  
+  Projektträger ist der DLR Projektträger  
  
 # Inhaltliche Schwerpunkte
 
