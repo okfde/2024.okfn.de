@@ -91,7 +91,7 @@ In einer Demokratie ist es notwendig, dass sich Bürger:innen frei über Regieru
 Projektleitung: Arne Semsrott<br>
 Entwickler:innen: Kara Engelhardt, Max Kronmüller, Stefan Wehrmeyer, Denis Witt, Jakob Wierzba<br>
 Head of Operations: Judith Doleschal<br>
-Öffentlichkeitsarbeit: Thomas Babyesiza, Michelle Trimborn , Mattea Weihe, Stella Schiffczyk, Leonie Gehrke , Isa Lachmann, Monica Phương Thúy Nguyễ<br>
+Öffentlichkeitsarbeit: Thomas Babyesiza, Michelle Trimborn , Mattea Weihe, Stella Schiffczyk, Leonie Gehrke , Isa Lachmann, Monica Phương Thúy Nguyễn<br>
 Legal-Team: Vivian Kube, Philipp Schönberger, Sebastian Sudrow, Hannah Vos, Ida Westphal mit Rechtsreferendar Benjamin Zimmermann und studentischer Hilfskraft Feli Strickmann<br>
 Investigativ-Team: Vera Deleja-Hotko, Aiko Kempen, Sabrina Winter<br>
 EU Büro: Luisa Izuzquiza, Gaby Jeliazkov mit studentischer Hilfskraft: Melek Bazgan<br>
