@@ -10,7 +10,7 @@ visual:
 
 ### Verein 
 
-Dem Verein gehören 46 ordentliche Mitglieder an. Es gibt keine Fördermitglieder. Unsere Mitgliederversammlung fand am 11.10.2023 erneut hybrid statt. Auf der Mitgliederversammlung wurden folgende Beschlüsse gefasst: Die Feststellung und das Einstellen des Jahresergebnisses; die Entlastung von Vorstand, Kassenwartin und Geschäftsführung; die Wahl der Vereinsmitglieder Maria Reimer und Leonard Wolf als Kassenprüfer:innen; die Bestätigung der Solidaris GmbH für die Durchführung der Wirtschaftsprüfung des Geschäftsjahres 2023.
+Dem Verein gehören 43 ordentliche Mitglieder an. Unsere Mitgliederversammlung fand am 19.09.2024 erneut hybrid statt. Auf der Mitgliederversammlung wurden neben den formal notwendigen Beschlüssen zu den Finanzen auch die Vorstandsmitglieder neu bzw. wiedergewählt.
 
 <table width="600">
   <tr>
@@ -26,7 +26,7 @@ Dem Verein gehören 46 ordentliche Mitglieder an. Es gibt keine Fördermitgliede
   </tr>
   <tr>
     <td>Beisitzer:innen</td>
-    <td>Daniel Dietrich (bis 11.10.2023), Lea Gimpel, Dr. Stefan Heumann, Felix Reda</td>
+    <td>DElina Eickstädt (seit 19.09.), Lea Gimpel, Dr. Stefan Heumann, Fiona Krakenbürger (seit 19.09.), Felix Reda</td>
   </tr>
  
  </table>
@@ -35,9 +35,13 @@ Dem Verein gehören 46 ordentliche Mitglieder an. Es gibt keine Fördermitgliede
 
 ### Personal 
 
-Geschäftsführerin ist weiterhin Dr. Henriette Litta (seit 2020). Das Team ist in diesem Jahr gewachsen und zählt nun 41 Personen (Vorjahr: 34). Im GF-Bereich haben wir den Bereich Buchhaltung etwas aufgestockt. Bei FragDenStaat kamen 2023 eine Journalistin, eine Campaignerin, eine Person für die Öffentlichkeitsarbeit sowie ein Systemadministrator neu ins Team. Bei Jugend hackt kam im Mai eine Projektmanagerin für die Koordination des Sommercamps dazu. Beim Prototype Fund wurden zwei Stellen aufgrund von Weggängen nachbesetzt (Begleitforschung, Öffentlichkeitsarbeit).
+Geschäftsführerin ist weiterhin Dr. Henriette Litta (seit 2020). Das Team ist in diesem Jahr gewachsen und zählt nun 43 Personen (Vorjahr: 41). Im GF-Bereich haben wir neue Kapazität im Bereich Kommunikation geschaffen. Bei FragDenStaat kam 2024 neue juristische Expertise sowie Verstärkung beim Campaigning ins Team. Beim Prototype Fund wurde eine temporäre Stelle für das Eventmanagement besetzt.
 
-Die Lohnstruktur der OKF lehnt sich an den aktuell gültigen Tarifvertrag für den öffentlichen Dienst der Länder an. Die Geschäftsführung verdiente 2023 5.593,59 Euro (E14/S4); alle Projektleitungen verdienten bei Vollzeitstellen 4.748,54 Euro (E13/S3). Im Berichtsjahr fand ein Review unserer Gehaltsstruktur statt. Ziel des Reviews war, alle bestehenden Regeln vollständig und transparent für alle zusammenzuführen. Neben kleinen Korrekturen führten wir auch neue Stufenwechsel ein, um Gehaltsanpassungen für Teammitglieder zu ermöglichen. Mit der neuen Übersicht unserer Gehaltsstruktur wollen wir unserem Anspruch gerecht werden, auch bei den Gehältern fair und transparent zu agieren. Seit 2023 erfassen wir zudem den unbereinigten Gender Pay Gap (2,7%).
+Die Gehaltsstruktur der OKF lehnt sich an den aktuell gültigen Tarifvertrag für den öffentlichen Dienst der Länder an. Die Geschäftsführung verdiente 2024 5.793,59 Euro (E14/S4); alle Projektleitungen verdienten bei Vollzeitstellen 4.948,54 Euro (E13/S3). Seit 2023 erfassen wir zudem den unbereinigten Gender Pay Gap (2024: 1,4%).
+
+## Kommunikation
+
+Im vergangenen Jahr haben wir unsere Social-Media-Strategie gezielt weiterentwickelt und an aktuelle Entwicklungen angepasst. Nach sorgfältiger Abwägung haben wir uns entschieden, unsere Präsenz auf X (ehemals Twitter) zu beenden. Stattdessen haben wir neue Wege eingeschlagen und sind nun auf Bluesky aktiv. Damit möchten wir alternative Plattformen stärken, die auf dezentrale Kommunikation und Community-Building setzen. LinkedIn nutzen wir weiterhin als zentrale Plattform für unsere Vernetzung und den Austausch mit Institutionen, Partner:innen und Unterstützer:innen. Auch auf Mastodon sind wir weiterhin präsent, um eine offene, diskriminierungsarme und nicht-kommerzielle digitale Öffentlichkeit zu fördern. Durch diese gezielte Auswahl und Erweiterung unserer Kanäle möchten wir unterschiedliche Zielgruppen ansprechen, neue Kommunikationsräume erschließen und unsere Inhalte sichtbar und zugänglich machen – jenseits von gewinnorientierten Algorithmen. Die Projekte selbst haben weiterhin ihre eigenen Plattformen.
 
 ### Organisationsentwicklung
 
