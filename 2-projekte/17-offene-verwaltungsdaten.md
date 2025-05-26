@@ -11,7 +11,7 @@ visual:
 
 ### Das Projekt
 
-Open Data in Verwaltungen ist ein Kernthema der OKF. Mit diesem Projekt möchten wir Initiativen zur Datenbereitstellung von Behörden zivilgesellschaftlich begleiten und voranbringen. Im Zusammenspiel mit unserer Community wollen wir Knowhow, Gelingensbedingungen und Umsetzungsstrategien bündeln und verfügbar machen. Gleichzeitig setzen wir uns für bessere gesetzliche Rahmenbedingungen für Open Data ein. Neben der nach außen wirkenden Nachvollziehbarkeit staatlichen Handelns steht der Mehrwert offener Daten für interne Verwaltungsabläufe im Zentrum.
+Open Data in Verwaltungen ist ein Kernthema der OKF. Mit diesem Projekt möchten wir Initiativen zur Datenbereitstellung von Behörden zivilgesellschaftlich begleiten und voranbringen. Im Zusammenspiel mit unserer Community wollen wir Know-how, Gelingensbedingungen und Umsetzungsstrategien bündeln und verfügbar machen. Gleichzeitig setzen wir uns für bessere gesetzliche Rahmenbedingungen für Open Data ein. Neben der nach außen wirkenden Nachvollziehbarkeit staatlichen Handelns steht der Mehrwert offener Daten für interne Verwaltungsabläufe im Zentrum.
 
 ## Was ist 2023 passiert?
 
@@ -22,41 +22,42 @@ Das Projekt läuft seit Oktober 2022.
 
 #### Budget: 
 
+**2024**<br>
+Einnahmen: 143.858 €<br>
+Ausgaben: 143.858 €<br>
+davon Personalausgaben: 106.886 €<br>
+davon Sachausgaben: 36.972 €<br>
+
 **2023**<br>
 Einnahmen: 121.575 €<br>
 Ausgaben: 121.575 €<br>
 davon Personalausgaben: 81.497 €<br>
 davon Sachausgaben: 40.078 €<br>
 
-**2022**<br>
-Einnahmen: 18.751 €<br>
-Ausgaben: 18.751 €<br>
-davon Personalausgaben: 16.139 €<br>
-davon Sachausgaben: 2.612 €<br>
-
 #### Personal
-Projektkoordination: Dénes Jäger | Projektmanagement: Christina Willems | Policy-Unterstützung: Henriette Litta
+Projektkoordination: Dénes Jäger | Projektmanagement: Christina Willems | Kommunikation: Yasemin Altınay | Policy-Unterstützung: Henriette Litta
 
 #### Förderung
 Stiftung Mercator
 
 ### Inhaltliche Schwerpunkte
 
-Im Jahr 2023 wurde die Konsolidierung des Projekts vorangetrieben. In erster Linie hieß es, die Fühler auszustrecken und sich in Fachforen und Barcamps mit Akteur:innen aus dem Open-Data-Spektrum zu vernetzen.
+Das Jahr 2024 stand ganz im Zeichen des [➠Open Data Rankings](https://opendataranking.de) und damit einer ersten Bestandsaufnahme des Status quo von Open Data in Deutschland für das Kalenderjahr 2023. Das Ranking geht über das übliche Datensätzezählen hinaus und stellt die Diskussion über offene Daten im Land auf eine breitere Basis. Anhand von sechs Kriterien wurde die Situation in den Ländern und im Bund bewertet: dabei wurden die rechtlichen Rahmenbedingungen für Open Data, die zentralen Datenportale, der Stand der verfügbaren Daten bei GovData (hinsichtlich Aktualität, Offenheit und Qualität), die personelle und institutionelle Unterstützung für Open Data, die Aktualität und Zugänglichkeit der Parlamentsdatenbanken sowie die Umsetzung eines Rechtsanspruchs auf Open Data in Betracht gezogen. Das Ranking 2024 hat gezeigt, dass aktuell große Unterschiede innerhalb Deutschlands vorherrschen. Einige Bundesländer haben das Thema nicht einmal im Rechtsrahmen verankert, andere kümmern sich bereits um Linked Open Data direkt aus den Fachverfahren.
 
-Um Projektfortschritte festzuhalten und Wissen zugänglich zu machen, wurde im Juni 2023 auf der *re:publica* der ➠[Open Data Knowledge Hub](https://opendata.okfn.de/) ins Leben gerufen. Auf der Seite wird auf zahlreiche gute Materialien zum Thema verwiesen, ausführliche Interviews mit Menschen aus der Bubble bereitgestellt und Erfahrungen aus der Community illustriert. Mit dem Voranschreiten des Projekts wird der Bestand des Knowledge Hubs weiterwachsen und regelmäßig aktualisiert. Teil des Knowledge Hubs sind Use Cases von erfolgversprechenden Projekten aus dem Open-Data-Spektrum, deren Gelingensbedingungen festgehalten werden. Ziel ist es, funktionierende Systeme nachnutzbar zu machen und mögliche Fallstricke und Hürden zu dokumentieren. In einem ersten Use Case wird seit Anfang 2023 ein Projekt aus der *Berliner Senatsverwaltung für Finanzen* begleitet, bei dem es um die Veröffentlichung von Haushaltsdaten als Linked-Open-Data geht. Nach Gesprächen mit der *Open-Data-Leitstelle Schleswig-Holstein* konnte ein weiterer Projektpartner gewonnen werden, so dass die beiden Bundesländer gemeinsam an einer Ontologie und damit Verlinkbarkeit zwischen Haushaltsdaten auf Landesebene arbeiten.
+Um sich zum Open Data Ranking auszutauschen, wurde viel Raum für Austausch und Vernetzung geschaffen. Darunter waren Beiträge und Diskussionen beim kommunalen Open Data Barcamp der Bertelsmannstiftung in Frankfurt, beim Opendata.ch Forum in Fribourg, bei der CityLab-Sommerkonferenz in Berlin oder beim Open-Data-Day München. Im November war die OKF zum ersten Mal als eine der Trägerorganisation der Piazza-Konferenz, bei der unter anderem auch ein Workshop zu Linked Data in der Verwaltung von der Open Data Informationsstelle Berlin gemeinsam mit der Senatsverwaltung für Finanzen gehalten wurde.
 
-Das Projekt wurde auch als Maßnahme zum ➠[4. Nationalen Aktionsplan Open Government Partnership](https://www.open-government-deutschland.de/opengov-de/ogp/aktionsplaene-und-berichte/4-nap/berliner-haushaltsdaten-als-linked-open-data-verpflichtung-berlin--2225466?view=) der Bundesregierung eingereicht, bei dem die OKF als zivilgesellschaftliche Partnerorganisation von der *Berliner Senatsverwaltung für Finanzen und der Staatskanzlei des Landes Schleswig-Holstein* fungiert.
+Dazu passend wurde beim Open-Data-Day Berlin der letzte Stand eines Projekts vorgestellt, bei dem die Berliner Senatsverwaltung für Finanzen gemeinsam mit der Staatskanzlei des Landes Schleswig-Holstein an der Veröffentlichung von Haushaltsdaten als Linked-Open-Data arbeitet. Das Projekt nimm am [➠4. Nationalen Aktionsplan Open Government Partnership](https://www.open-government-deutschland.de/opengov-de/ogp/aktionsplaene-und-berichte/4-nap/berliner-haushaltsdaten-als-linked-open-data-verpflichtung-berlin--2225466?view=) der Bundesregierung teil, bei dem die OKF als zivilgesellschaftliche Partnerorganisation beratend wirkt und die Gelingensbedingungen für die Veröffentlichung von Linked Data dokumentiert. Der letzte Stand ist im [➠Open Data Knowledge Hub](https://opendata.okfn.de/) nachzuvollziehen, dessen Inhalte im Jahr 2024 regelmäßig aktualisiert und erweitert wurden. So wurden Handreichungen und Erfahrungsberichte hinzugefügt sowie eine Liste mit Open-Data-Ansprechpersonen von Behörden veröffentlicht, die mittels des Informationsfreiheitsgesetzes angefragt wurde.
 
-Um möglichst viele Perspektiven und Erfahrungen zu dem Thema Linked-Open-Data in das Vorhaben einzubeziehen, haben wir im Oktober ein ➠[Barcamp](https://www.technologiestiftung-berlin.de/profil/blog/wie-linked-open-data-fuer-mehr-transparenz-bei-haushaltsdaten-sorgt-interview-mit-julia-schabos) organisiert. Menschen aus Verwaltung, Wissenschaft und Community konnten sich austauschen und für die Projektpartner:innen wurde mit dem erstmaligen Treffen in personam der Grundstein für die kommende Zusammenarbeit gelegt. Im Nachgang des Barcamps wurde ein ➠[offener Kommunikationskanal](https://matrix.to/#/) geschaffen, um eine anhaltende Vernetzung und Beteiligung auch über das Projekt hinaus zu ermöglichen.
+Auf der re:publica 24 gab es zudem einen [➠Workshop mit Verwaltungsmitarbeitenden](https://re-publica.com/de/session/ai-washing-als-chance-mit-ki-bezug-zu-einer-besseren-infrastruktur-fuer-die-verwaltung), bei dem die Frage aufgeworfen wurde, ob der aktuelle KI-Hype nicht auch dafür verwendet werden könne, um den Blick auf die für KI notwendigen infrastrukturellen Grundlagen zu richten. Eine Mehrheit der Teilnehmenden gab bei der Veranstaltung an, dass sie bereits KI-Washing nutzten, um Vorgesetzten etwa Investitionen in die Datenbasis schmackhaft zu machen.
 
 ### Ausblick
 
-Im Jahr 2024 geht das Haushaltsdatenprojekt in die Umsetzung. Es ist geplant, neben den Projektpartner:innen auch frühzeitig andere Linked-Data-Enthusiast:innen mit einzubeziehen und die aktuellen Fortschritte via Open Data Knowledge Hub und Austauschplattform zu teilen. Die Learnings darüber, wie man endlich „ins Tun kommt“ aufzuarbeiten und zu dokumentieren, ist dabei die Hauptaufgabe der OKF in dieser Projektphase.
+Im Jahr 2025 soll das [➠Open Data Ranking in die zweite Runde gehen und größtenteils einen Blick auf dieselben Kriterien werfen, um eine ersten Jahresvergleich zu ermöglichen. Die Erfahrungen mit dem ersten Ranking und das Medienecho haben gezeigt, dass bereits das erste Ranking zu unterschiedlichen Diskussionen geführt haben. Einige der Länder nutzten bereits das Abschneiden, um bei Politik und Verwaltung für den Ausbau der Open-Data-Tätigkeiten zu werben. Darauf möchten wir aufbauen und versuchen, auch mit den Ländern in Kontakt zu kommen, die sich bislang noch nicht mit der Öffnung des Datenbestands hervorgetan haben.
 
-Ein weiterer großer Baustein für das Jahr 2024 ist die Veröffentlichung eines Open-Data-Rankings. Angelehnt an das ➠[Transparenzranking](https://transparenzranking.de/) von FragDenStaat werden die gesetzlichen Rahmenbedingungen und tatsächlichen Aktivitäten der Bundesländer im Bereich Open Data verglichen. Rankings können natürlich der komplexen Realität nie gerecht werden, aber wir möchten uns zumindest dem von außen beobachtbaren Status Quo annähern und eine erste Diskussionsgrundlage erstellen, auf der man in den nächsten Jahren aufbauen kann. Zudem kann die Website allen interessierten Menschen aus den jeweiligen Bundesländern als Anlaufstelle dienen — alle Gesetze, mit relevanten Paragraphen, Portalen, Strategien und dem aktuellen Datenbestand bei GovData (via SPARQL-Presets für alle Länder und Kategorien) werden dort direkt verlinkt und an einem Ort einsehbar sein.
+Das Projekt zu der Veröffentlichung von Haushaltsdaten als Linked Data geht in den Abschluss. Hier möchten wir mit einem Use-Case die Gelingensbedingungen dokumentieren und versuchen, weitere Akteur:innen zu gewinnen. Um das Momentum für Linked Open Data zu erhalten, soll ein Barcamp veranstaltet werden, das die Möglichkeit für Reflexion und einen Raum für Diskussionen rund um Anwendungsfälle bieten soll. Dazu werden wieder Menschen aus Verwaltung, Zivilgesellschaft und Forschung nach Berlin eingeladen.
+
+In einem weiteren inhaltlichen Schwerpunkt soll sich der Frage gewidmet werden, welche Regierungsdaten in welchen Formaten für die Arbeit der Zivilgesellschaft vorliegen sollten. Dabei geht es unter anderem um Daten aus den Parlamenten, aus Transparenzregistern oder etwa Spendenbescheide.
 
 ### Website
 
 [https://okfn.de/projekte/opendata/](https://okfn.de/projekte/opendata/)
-
