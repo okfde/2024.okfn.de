@@ -114,7 +114,7 @@ Das Thema Schule, vor allem Digitalisierung von Schule hat auch in diesem Jahr v
 
 Der Jugendbeirat ist die Vertretung von jungen Menschen aus unserer Community, die das Programm Jugend hackt mitgestalten wollen. Seit 2022 tauscht sich der Beirat laufend online und bei regelmäßigen Treffen aus.
 
-Unsere lokalen Lab-Leads, Event-Organisatoren und Mentor*innen kamen im September zu einem gemeinsamen Netzwerktreffen in unserem Jugend hackt Lab in Heilbronn zusammen, um sich über Best Practices, Erfahrungen und Planungen für die Zukunft auszutauschen.
+Unsere lokalen Lab-Leads, Event-Organisatoren und Mentor:innen kamen im September zu einem gemeinsamen Netzwerktreffen in unserem Jugend hackt Lab in Heilbronn zusammen, um sich über Best Practices, Erfahrungen und Planungen für die Zukunft auszutauschen.
 
 # Outcome
 
