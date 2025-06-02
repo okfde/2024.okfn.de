@@ -24,15 +24,15 @@ Das Projekt läuft seit 2014.
 #### Budget
 
 **2024**<br>
-Einnahmen: 28.603 €
-Ausgaben: 28.603 €
-davon Personalausgaben: 27.503 €
+Einnahmen: 28.603 €<br>
+Ausgaben: 28.603 €<br>
+davon Personalausgaben: 27.503 €<br>
 davon Sachausgaben: 1.100 €
 
 **2023**<br>
-Einnahmen: 28.748 €
-Ausgaben: 28.748 €
-davon Personalausgaben: 27.642 €
+Einnahmen: 28.748 €<br>
+Ausgaben: 28.748 €<br>
+davon Personalausgaben: 27.642 €<br>
 davon Sachausgaben: 1.106 €
 
 #### Personal
