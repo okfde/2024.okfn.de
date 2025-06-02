@@ -13,7 +13,7 @@ visual:
 
 Open Data in Verwaltungen ist ein Kernthema der OKF. Mit diesem Projekt möchten wir Initiativen zur Datenbereitstellung von Behörden zivilgesellschaftlich begleiten und voranbringen. Im Zusammenspiel mit unserer Community wollen wir Know-how, Gelingensbedingungen und Umsetzungsstrategien bündeln und verfügbar machen. Gleichzeitig setzen wir uns für bessere gesetzliche Rahmenbedingungen für Open Data ein. Neben der nach außen wirkenden Nachvollziehbarkeit staatlichen Handelns steht der Mehrwert offener Daten für interne Verwaltungsabläufe im Zentrum.
 
-## Was ist 2023 passiert?
+## Was ist 2024 passiert?
 
 ### Ressourcen
 
