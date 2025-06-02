@@ -22,7 +22,7 @@ Die OKF setzt sich dafür ein, dass unsere Demokratie gestärkt, das gesellschaf
 
 ## Selbstverständnis und Arbeitsweise
 
-Wir sind ein Trägerverein starker, bekannter Projekte mit eigenem Markenkern. Wir bündeln die Wirkung der einzelen Initiativen. Wir arbeiten Community orientiert. Wir arbeiten häufig zusammen mit mehr oder weniger festen Netzwerken von Freiwilligen. Das Streben nach Offenheit, Teilhabe und Transparenz ist auch Leitlinie für die Arbeit innerhalb unserer Organisation. Wir arbeiten kooperativ und gehen solidarisch, wertschätzend und vertrauensvoll miteinander um. Wir pflegen eine Arbeitskultur, in der konstruktives Feedback gegeben und angenommen werden kann.
+Wir sind ein Trägerverein starker, bekannter Projekte mit eigenem Markenkern. Wir bündeln die Wirkung der einzelnen Initiativen. Wir arbeiten Community orientiert. Wir arbeiten häufig zusammen mit mehr oder weniger festen Netzwerken von Freiwilligen. Das Streben nach Offenheit, Teilhabe und Transparenz ist auch Leitlinie für die Arbeit innerhalb unserer Organisation. Wir arbeiten kooperativ und gehen solidarisch, wertschätzend und vertrauensvoll miteinander um. Wir pflegen eine Arbeitskultur, in der konstruktives Feedback gegeben und angenommen werden kann.
 
 Mehr über uns auf ➠[okfn.de](https://okfn.de/)
 
