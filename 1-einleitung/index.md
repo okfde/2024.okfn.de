@@ -29,5 +29,5 @@ Auch 2025 setzen wir uns für offene Technologien, Zugang zu Wissen, Transparenz
 
 Im September 2024 wurde zudem ein neuer Vorstand gewählt – wir grüßen euch in dieser Konstellation zum ersten Mal und wünschen viel Freude beim Lesen unseres Jahresberichts!
 
-Euer Vorstand
+Euer Vorstand<br>
 Elina Eickstädt, Lea Gimpel, Stefan Heumann, Kristina Klein, Gabriele C. Klug, Fiona Krakenbürger und Felix Reda
