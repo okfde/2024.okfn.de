@@ -11,7 +11,7 @@ visual:
 
 ### Geltungsbereich
  
-Der folgende Bericht blickt zurück auf die Arbeit der Open Knowledge Foundation Deutschland (nachfolgend OKF) im Jahr 2023. Im Bericht werden die wichtigsten Aktivitäten zusammengefasst, die Arbeitsweise der Organisation beschrieben sowie alle Projekte in Kürze dargestellt. Der abschließende Teil des Berichts umfasst Informationen zur Organisationsstruktur und den Finanzen.
+Der folgende Bericht blickt zurück auf die Arbeit der Open Knowledge Foundation Deutschland (nachfolgend OKF) im Jahr 2024. Im Bericht werden die wichtigsten Aktivitäten zusammengefasst, die Arbeitsweise der Organisation beschrieben sowie alle Projekte in Kürze dargestellt. Der abschließende Teil des Berichts umfasst Informationen zur Organisationsstruktur und den Finanzen.
 
 Die Open Knowledge Foundation Deutschland ist ein eingetragener gemeinnütziger Verein, Vereinsregister-Nr. VR 30468 B. Sitz der Organisation ist die Singerstraße 109 in 10179 Berlin. Die Inhalte dieses Berichts sind, sofern nicht anders angegeben, nach Creative Commons 4.0 Share-Alike Attribution lizenziert. Urheberin für alle Inhalte ist, sofern nicht anders angegeben, die Open Knowledge Foundation Deutschland e. V.
  
@@ -23,7 +23,7 @@ Im Teil „PROJEKTE“ stellen wir unsere wichtigsten Projekte vor und beschreib
  
 ### Berichtzeitraum und Berichtzyklus 
  
-Die Finanzberichterstattung bezieht sich auf das Geschäftsjahr 2023. Alle anderen Fakten reichen teilweise bis zur Gründung im Februar 2011 zurück. Es wird im jährlichen Turnus berichtet.
+Die Finanzberichterstattung bezieht sich auf das Geschäftsjahr 2024. Alle anderen Fakten reichen teilweise bis zur Gründung im Februar 2011 zurück. Es wird im jährlichen Turnus berichtet.
 
 ### Ansprechperson 
 
