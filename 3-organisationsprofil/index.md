@@ -33,7 +33,7 @@ E-Mail: info[at]okfn.de<br>
 Website: www.okfn.de
 
 **Link zur Satzung (URL)**<br>
-[https://okfn.de/files/documents/01_OKF-Satzung_neu.pdf](https://okfn.de/files/documents/01_Satzung_2024.pdf)<br>
+[https://okfn.de/files/documents/01_OKF-Satzung.pdf](https://okfn.de/files/documents/01_Satzung_2024.pdf)<br>
 
 **Registereintrag**<br>
 Registergericht: Charlottenburg<br>
