@@ -96,7 +96,7 @@ Legal-Team: Vivian Kube, Philipp Schönberger, Sebastian Sudrow, Hannah Vos, Ida
 Investigativ-Team: Vera Deleja-Hotko, Aiko Kempen, Sabrina Winter<br>
 EU Büro: Luisa Izuzquiza, Gaby Jeliazkov mit studentischer Hilfskraft: Melek Bazgan<br>
 Klima-Helpdesk: Joschi Wolf<br>
-Bundesfreiwilligendienstleistende: Amata Iman Nisrin Pommeranz, Ylva Ahrens
+Bundesfreiwilligendienstleistende: Amata Iman Nisrin Pommeranz, Theodor Ahrens
 
 ### Ehrenamtliche Arbeit
 
