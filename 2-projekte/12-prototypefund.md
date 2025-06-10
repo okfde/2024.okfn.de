@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.13
+chapter: 2.12
 title: Prototype Fund
 website: https://prototypefund.de
 permalink: /projekte/prototypefund/
