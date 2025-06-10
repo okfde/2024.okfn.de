@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.14
+chapter: 2.19
 title: Prototype Fund Hardware
 website: https://hardware.prototypefund.de/
 permalink: /projekte/prototype-fund-hardware/
