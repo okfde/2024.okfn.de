@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.12
+chapter: 2.11
 title: Jugend hackt
 website: https://jugendhackt.org/
 permalink: /projekte/jugendhackt/
