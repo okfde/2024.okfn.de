@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.17
+chapter: 2.18
 title: Offene Verwaltungsdaten
 website: https://okfn.de/projekte/opendata/
 permalink: /projekte/offene-verwaltungsdaten/
