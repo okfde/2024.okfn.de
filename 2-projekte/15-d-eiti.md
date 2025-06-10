@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.18
+chapter: 2.15
 title: EITI - Extractive Industries Transparency Intitiative
 website: https://www.d-eiti.de/
 permalink: /projekte/d-eiti/
