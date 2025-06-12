@@ -12,8 +12,8 @@ visual:
 
 Eure Spenden machen unsere Arbeit möglich. Wenn euch diese am Herzen liegt und es eure finanzielle Situation erlaubt, freuen wir uns über eure Unterstützung. Mit eurer Hilfe sichern wir: 
 
-·politische Kampagnen im Sinne der Zivilgesellschaft 
-·	Projekte zu freiem Wissen und digitaler Mündigkeit
+·	politische Kampagnen im Sinne der Zivilgesellschaft<br>
+·	Projekte zu freiem Wissen und digitaler Mündigkeit<br>
 ·	die Infrastruktur, die unsere Arbeit trägt – von Serverkosten bis zur Miete 
 
 Unser Verein ist gemeinnützig anerkannt. Für Spenden bis 300 Euro reicht der Kontoauszug zusammen mit unserem vereinfachten Zuwendungsnachweis als Beleg. Über ➠[unsere Website](https://okfn.de/spenden/) könnt ihr ganz einfach spenden. Vielen Dank! 
