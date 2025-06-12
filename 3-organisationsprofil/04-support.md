@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 3.3
+chapter: 3.4
 title: Finanzen
 permalink: /organisation/finanzen/
 visual:
