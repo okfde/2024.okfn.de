@@ -94,7 +94,7 @@ Wie bereits in den Jahren zuvor fanden im Jahr 2024 zwei Förderrunden statt. De
 
 # Output
 
-Zu Beginn des Jahres 2024 stellten sich die Projekte der 14. Förderrunde Prototype Fund auf ihrem ➠[Demo Day](https://prototypefund.de/demo-day-14/) vor. Am 1. März kamen rund 130 Teilnehmende in Berlin zusammen und konnten die Ergebnisse der Projektarbeit erleben. Neben Vorträgen, Panels und Live Demos hielt Peter Steudtner, Trainer für Holistic Security, eine Keynote zum Thema „Digital Resistance – Care is Resilience“. Die Veranstaltung wurde in Form eines ➠[Videos](https://www.youtube.com/watch?v=Sfebja-Vdiw) und einer ➠[Fotogalerie](https://prototypefund.de/fotoshow-vom-14-demo-day/) sowie durch Beiträge in den sozialen Medien dokumentiert.
+Zu Beginn des Jahres 2024 stellten sich die Projekte der 14. Förderrunde Prototype Fund auf ihrem ➠[Demo Day](https://prototypefund.de/demo-day-14/) vor. Am 1. März kamen rund 130 Teilnehmende in Berlin zusammen und konnten die Ergebnisse der Projektarbeit erleben. Neben Vorträgen, Panels und Live Demos hielt Peter Steudtner, Trainer für Holistic Security, eine Keynote zum Thema „Digital Resistance – Care is Resilience“. Die Veranstaltung wurde in Form eines ➠[Videos](https://www.youtube.com/watch?v=Sfebja-Vdiw) und einer ➠[Fotogalerie](https://prototypefund.de/fotoshow-vom-14-demo-day/) sowie durch Beiträge in den sozialen Medien und in einem ➠[Blogpost](https://prototypefund.de/demo-day-14/) dokumentiert.
 
 Am 29. Februar 2024 fand der Kick-Off-Workshop der ➠[15. Förderrunde](https://prototypefund.de/projects/round-15/) statt. 22 neue Förderprojekte wurden durch das Team des Prototype Fund und Vertreter:innen des DLR Projektträger auf die anstehende Umsetzungsphase vorbereitet.
 
