@@ -1,8 +1,8 @@
 ---
 layout: page
 chapter: 3.4
-title: Finanzen
-permalink: /organisation/finanzen/
+title: Unsere Arbeit unterstützen
+permalink: /organisation/support/
 visual:
     img: /assets/images/2023/OKF-logo.png
     alt: Logo der OKF
