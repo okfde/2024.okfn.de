@@ -8,7 +8,7 @@ visual:
     alt: Illustration mit den Worten "Vorwort - Es gruesst der Vorstand."
 ---
 
-*Der Jahresbericht steht auch als <a href="/assets/documents/OKF_Jahresbericht_2023.pdf" class="download-table">PDF-Version</a> zur Verfügung. Die Versionen unterscheiden sich lediglich in Layout und Bildauswahl.*
+*Der Jahresbericht steht auch als <a href="/assets/documents/OKF_Jahresbericht_2024.pdf" class="download-table">PDF-Version</a> zur Verfügung. Die Versionen unterscheiden sich lediglich in Layout und Bildauswahl.*
 
 **Grußwort des Vorstands**
 
