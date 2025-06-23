@@ -109,12 +109,12 @@ Deutsche Postcode Lotterie, Spenden
 
 Neues Lab in Fürth: Eine neue lokale Gruppe von Engagierten fand sich in Fürth zusammen. Die Qualitätssicherung für die Aufnahme ins Netzwerk und das Onboarding fand durch andere Ehrenamtliche aus der Region statt, anstatt hauptamtlich aus Berlin. Die Plattform klimawatch.de wurde erfolgreich erweitert, um mittlerweile 17 Kommunen abzudecken und Klimaschutzmaßnahmen regional sichtbar zu machen. Sie motiviert Bürger:innen zum Engagement fürs Klima. Verbesserung der digitalen Infrastruktur und einfache Aufnahme neuer Interessierter: Wir haben mit optimierter Technik und Textvorlagen das Onboarding für unsere Online-Community vereinfacht, wodurch neue Ehrenamtliche schneller integriert werden. Beim g0v Summit in Taiwan im Mai nahm Sonja Fischbauer an einem Panel zu Digitalem Ehrenamt und Zivilgesellschaftlicher Digitalbildung teil, gemeinsam mit Vertreterinnen von Code for Japan und dem tawanischen Civic-Tech-Netzwerk g0v. Im darauffolgenden Monat kam Taiwanischer Besuch nach Berlin für einen Workshop zu Civic Tech & Digital Citizenship Education, an dem auch Vertreter:innen von Code for Germany teilnahmen.
 
-o	2024 gab es 18 aktive OK Labs , die sich mit ihren Gemeinden vernetzten.
-o	In Fürth gründete eine Gruppe engagierter Ehrenamtlicher ein neues OK-Lab. Neues Lab in Fürth: Eine neue lokale Gruppe von Engagierten fand sich in Fürth zusammen. Die Qualitätssicherung für die Aufnahme ins Netzwerk und das Onboarding fand durch andere Ehrenamtliche aus der Region statt, anstatt hauptamtlich aus Berlin.
-o	Unter dem Titel Out in the Open erschien 2024 wieder eine ➠[monatliche Blogreihe](https://codefor.de/blog/) auf codefor.de. Die Beiträge werden von ehrenamtlichen Expert:innen recherchiert und verfasst.
-o	Die OK Labs vor Ort veranstalteten regelmäßige Austauschtreffen vor Ort und online.
-o	Die OK Labs berieten lokale Verwaltungen zum Nutzen von Open Data sowie zu gemeinwohlorientierter Digitalpolitik und Infrastruktur.
-o	Im Netzwerk wurden zahlreiche Projekte umgesetzt, die den Nutzen von offenen Daten aufzeigen.
+o	2024 gab es 18 aktive OK Labs , die sich mit ihren Gemeinden vernetzten.<br>
+o	In Fürth gründete eine Gruppe engagierter Ehrenamtlicher ein neues OK-Lab. Neues Lab in Fürth: Eine neue lokale Gruppe von Engagierten fand sich in Fürth zusammen. Die Qualitätssicherung für die Aufnahme ins Netzwerk und das Onboarding fand durch andere Ehrenamtliche aus der Region statt, anstatt hauptamtlich aus Berlin.<br>
+o	Unter dem Titel Out in the Open erschien 2024 wieder eine ➠[monatliche Blogreihe](https://codefor.de/blog/) auf codefor.de. Die Beiträge werden von ehrenamtlichen Expert:innen recherchiert und verfasst.<br>
+o	Die OK Labs vor Ort veranstalteten regelmäßige Austauschtreffen vor Ort und online.<br>
+o	Die OK Labs berieten lokale Verwaltungen zum Nutzen von Open Data sowie zu gemeinwohlorientierter Digitalpolitik und Infrastruktur.<br>
+o	Im Netzwerk wurden zahlreiche Projekte umgesetzt, die den Nutzen von offenen Daten aufzeigen.<br>
 o	➠[Vernetzung mit Civic-Tech-Organisationen aus Taiwan](https://okfn.de/blog/2024/06/von-taipei-nach-berlin-wie-civic-tech-in-taiwan-zur-digitalen-demokratie-inspiriert/): Panel-Beitrag zur deutschen Digitalen Zivilgesellschaft durch Sonja Fischbauer auf dem g0v summit in Taipei (Mai); Teilnahme von Code for Germany Freiwilligen an einem g0v-geleiteten Workshop in Berlin (Juni).
 
 # Ausblick
