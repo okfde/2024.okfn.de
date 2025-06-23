@@ -13,9 +13,9 @@ Die OKF setzt sich dafür ein, dass unsere Demokratie gestärkt, das gesellschaf
 
 ## Politische Forderungen 
 
-!	Zivilgesellschaftliche Expertise nutzen und digitales Ehrenamt fördern 
-!	Staatliches Handeln transparent machen: Mehr Informationsfreiheit und Rechtsanspruch auf Open Data erwirken
-!	Nachhaltige Strukturen für eine gemeinwohlorientierte Digitalpolitik und souveräne Tech-Infrastruktur schaffen
+!	Zivilgesellschaftliche Expertise nutzen und digitales Ehrenamt fördern<br> 
+!	Staatliches Handeln transparent machen: Mehr Informationsfreiheit und Rechtsanspruch auf Open Data erwirken<br>
+!	Nachhaltige Strukturen für eine gemeinwohlorientierte Digitalpolitik und souveräne Tech-Infrastruktur schaffen<br>
 !	Bildung offen gestalten: Partizipative Bildungsstrukturen durchsetzen und lebenslanges Lernen ermöglichen
 
 ## Unsere Themenschwerpunkte
