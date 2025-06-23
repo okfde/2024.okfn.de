@@ -37,8 +37,8 @@ Auf der re:publica organisierten die F5 Organisationen in diesem Jahr zum zweite
 ### Team-Retreat in Stechlin/Brandenburg 
 Auch im Jahr 2024 hat sich die OKF wieder auf den Weg nach Stechlin gemacht: In Brandenburg fand sich unser Team bei einem Retreat zusammen, um gemeinsam an Themen und Visionen zu arbeiten. Auf unserer Agenda standen dieses Mal unter anderem: Governance-Strukturen, Instrumente zu mehr Partizipationsmöglichkeiten, Stärkung der Mitarbeiter:innen und die Reflexion der Veränderung des Vereins über die letzten Jahre.
 
-### Open Hardware
--
+### 150.000€ für Open Source Hardware-Projekte
+Nach dem großartigen Start des Prototype Fund Hardware 2021 ist das Förderprogramm für Open Source Hardware 2024 in die zweite Runde gegangen. Gemeinsam mit der Zukunft – Umwelt – Gesellschaft (ZUG) werden sechs Projekte gefördert.  
 
 ### Code for Germany
 Im Berichtsjahr hatten wir die Chance, mehr über die Civic-Tech- und Open-Source-Szene in Taiwan zu erfahren und uns mit taiwanischen Aktivist:innen auszutauschen. Das Land ist ein Vorbild im Bereich Digital Democracy mit einigen Erfolgsgeschichten in der Zusammenarbeit zwischen Verwaltung und Zivilgesellschaft. Anfang Mai waren wir zum g0v summit in Taipei eingeladen um an einem Panel zu Civic Tech teilzunehmen. Einen Monat später durften wir Vertreterinnen der g0v-Community bei uns in Berlin begrüßen.
