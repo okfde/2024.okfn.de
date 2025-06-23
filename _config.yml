@@ -1,7 +1,7 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://2023.okfn.de" # the base hostname & protocol for your site, e.g. http://example.com
 
-title: Jahresbericht des Open Knowledge Foundation Deutschland e. V. 2023
+title: Jahresbericht des Open Knowledge Foundation Deutschland e. V. 2024
 description: > # this means to ignore newlines until "show_exerpts:"
   Unser Jahresbericht enthält detaillierte Angaben zu den Entwicklungen unserer Organisation und unserer Projekte.
 main_image: assets/images/einleitung/titel.png
