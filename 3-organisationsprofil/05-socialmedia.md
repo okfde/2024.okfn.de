@@ -1,7 +1,7 @@
 ---
 layout: page
 chapter: 3.5
-title: Finanzen
+title: Social Media Kanäle
 permalink: /organisation/socialmedia/
 visual:
     img: /assets/images/2023/OKF-logo.png
