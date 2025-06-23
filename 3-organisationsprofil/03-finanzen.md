@@ -30,9 +30,13 @@ Die Einnahmen in Höhe von 3.742.000 Euro untergliedern sich in projektgebundene
 
 Die Spendeneinnahmen belaufen sich auf 1.510.000 Euro und liegen damit nochmals höher als im Vorjahr (VJ 1.135.000 €). Der Großteil der **Spenden** geht auf das Programm FragDenStaat zurück, das sich besonders um die Neuspender:innengewinnung und damit verbunden um ein kontinuierliches Wachstum der Spender:innenbasis bemüht hat. Neben vielen tausend Kleinstspenden macht die erneute Großspende der Alfred Landecker Foundation (500.000 €) etwa ein Drittel der gesamten Spendeneinnahmen aus. 
 
-Die **wirtschaftlichen Einnahmen** betragen 213.000 Euro (VJ 76.000 €). Die wirtschaftlichen Aktivitäten sind bislang kein Schwerpunkt der OKF. Dennoch ergeben sich immer wieder einzelne inhaltlich spannende Kooperationen, in diesem Jahr beispielsweise die Konzeption und Umsetzung der Umweltdatenschule im Auftrag des Bundesumweltministeriums (über Z.U.G.). Neu in diesem Jahr waren Zinserträge durch Tages- und Festgeldanlagen in Höhe von ca. 17.000 Euro. 
+Die **wirtschaftlichen Einnahmen** betragen 213.000 Euro (VJ 76.000 €). Die wirtschaftlichen Aktivitäten sind bislang kein Schwerpunkt der OKF. Dennoch ergeben sich immer wieder einzelne inhaltlich spannende Kooperationen, in diesem Jahr beispielsweise die Konzeption und Umsetzung der Umweltdatenschule im Auftrag des Bundesumweltministeriums (über Z.U.G.). Neu in diesem Jahr waren Zinserträge durch Tages- und Festgeldanlagen in Höhe von ca. 17.000 Euro.
+
+![Einnahmen](/assets/images/2024/Einnahmen.png)
 
 Die Höhe der **Ausgaben** beträgt 2.959.000 Euro (VJ 2.798.000 €). Die Ausgaben untergliedern sich in **Personalkosten** in Höhe von 1.855.000 Euro (VJ 1.599.000 €) und in **Sachkosten** in Höhe von 1.103.000 Euro (VJ 1.199.000 €). Einkommens- und Ertragssteuern fielen nur geringfügig in Höhe von 1.000 Euro an (VJ 0 €).
+
+![Ausgaben](/assets/images/2023/Ausgaben.png)
 
 ### Finanzieller Ausblick mit Chancen und Risiken
 
