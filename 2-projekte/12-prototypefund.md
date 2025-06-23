@@ -5,7 +5,7 @@ title: Prototype Fund
 website: https://prototypefund.de
 permalink: /projekte/prototypefund/
 visual:
-    img: /assets/images/2023/PTF.png
+    img: assets/images/2023/Prototypefund_DemoDay.jpg
     alt: Prototype Fund, VAYM Productions
     
 problem:
