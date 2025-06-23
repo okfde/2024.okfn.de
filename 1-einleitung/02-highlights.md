@@ -4,8 +4,8 @@ chapter: 1.2
 title: Highlights des Jahres
 permalink: /einleitung/highlights/
 visual:
-    img: /assets/images/2023/F5-2023.png
-    alt: F5 Bündnisstand
+    img: /assets/images/2023/PTF.jpg
+    alt: PTF
 ---
 
 
