@@ -5,7 +5,7 @@ title: Code for Germany
 website: https://codefor.de
 permalink: /projekte/code-for-germany/
 visual:
-    img: /assets/images/2023/CFG_codefor.de.png
+    img: /assets/images/2023/Code for Germany Logo.png
     alt: Code for Germany
 
 problem:
