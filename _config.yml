@@ -1,5 +1,5 @@
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://2023.okfn.de" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://2024.okfn.de" # the base hostname & protocol for your site, e.g. http://example.com
 
 title: Jahresbericht des Open Knowledge Foundation Deutschland e. V. 2024
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -14,7 +14,7 @@ mainpage:
   url: https://okfn.de
   #pdf: /fake/link/to.pdf
   label: Zurück zur OKF Website
-  year: 2023
+  year: 2024
 chapter:
   resources: Ressourcen
   effects:
